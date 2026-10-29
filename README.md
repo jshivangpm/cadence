@@ -39,4 +39,4 @@ Prototype built with Claude (Anthropic) as an AI-assisted product exploration.
 
 ---
 
-*Built by [Shivang Jindal](https://www.linkedin.com/in/your-profile) — Senior Product Manager, fintech & enterprise SaaS.*
+*Built by [Shivang Jindal](https://www.linkedin.com/in/shivang-jindal-pm) — Senior Product Manager, fintech & enterprise SaaS.*
